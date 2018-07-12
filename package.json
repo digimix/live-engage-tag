@@ -1,0 +1,9 @@
+{
+  "name": "live-engage-tag",
+  "version": "1.0.0",
+  "description": "LivePerson.com chat integration script called Live Engage Tag. ",
+  "main": "index.js",
+  "repository": "https://github.com/digimix/live-engage-tag",
+  "author": "Digimix <hello@digimix.us>",
+  "license": "MIT"
+}
